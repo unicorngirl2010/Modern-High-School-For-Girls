@@ -122,3 +122,29 @@ input {
 #junk {
     color: white;
 }
+
+img1,
+img2,
+img3,
+img4 {
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+    margin: auto;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center;
+}
